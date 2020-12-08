@@ -1,0 +1,18 @@
+h1 {
+  font-size:24px;
+  color: rgb(163, 95, 18);
+  padding-left: 16x;
+  border-left: 8px solid chocolate;
+}
+
+body img {
+  width: 120px;
+  height: 120px;
+  border-radius: 20%;
+  
+}
+
+p {
+  font-size:18px;
+  color:rgb(25, 163, 25);
+}
